@@ -4,4 +4,4 @@ The folder contained within this repo are the accumulated contributions/particip
 
 The repo can be found at: 
 
-https://github.com/roha1130/4830_course_contributions_updated
+https://github.com/roha1130/4830-Course-Contributions---roha1130.git
